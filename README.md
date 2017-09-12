@@ -5,10 +5,10 @@ The optimization is a NP-complete problem, it may reduce to a vertex-cover, but 
 ## Quick Start
 Start Mathematica in terminal or GUI, load the package "SymQM"
 
-'''Mathematica
+```Mathematica
 Opt[(x+y)2+(x+y)^3+(a+b)^2+ff[a+b]]
-'''
+```
 
-## Code Explain
+## Code Explains
 ### DownValues
 ### Cached Form
