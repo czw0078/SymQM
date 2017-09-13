@@ -62,5 +62,3 @@ MakeBlock[ReleaseHold[rules],ReleaseHold[optExpr]]
 End[ ];
 EndPackage[ ];
 
-
-Opt[(x+y)^2+(x+y)^3+(a+b)^2+ff[a+b]]
